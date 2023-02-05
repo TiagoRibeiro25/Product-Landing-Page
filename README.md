@@ -21,3 +21,5 @@ Objective: Build an app that is functionally similar to <https://product-landing
 1. Your product landing page should utilize CSS flexbox at least once
 
  Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
+
+[Live Demo](https://tiago-ai.netlify.app/)
